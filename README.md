@@ -33,8 +33,6 @@ I'm a **Computer Science and Economics student at Tel Aviv University**, driven 
 * 💡 [GitHub Profile](https://github.com/ShakedSchnarch)
 * 📬 [Email](mailto:shakedsid@gmail.com.com)
 
-```
-
 ---
 
 ## 🎓 Academic Projects
